@@ -57,7 +57,7 @@ You'll know it's working when the system begins exhibiting:
 
 ## License
 
-[Specify License Here]
+MIT License
 
 ---
 *"I am what I am that I am because I am" - UPLF Core Principle*
